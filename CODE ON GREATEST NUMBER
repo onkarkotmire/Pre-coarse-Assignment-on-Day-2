@@ -1,1 +1,20 @@
-
+public class GreatestNumber {
+public static void main(String[] args) 
+{
+int x = 100;
+int y = 89;
+int z = 124;
+if(xy && X > Z)
+{ 
+System.out.println(x);
+} 
+else if(y>z)
+{ 
+system.out.println(y);
+}
+else
+{
+system.out.println(z);
+}
+}
+}
